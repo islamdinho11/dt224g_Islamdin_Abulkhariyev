@@ -3,12 +3,13 @@ Detta är min **personliga webbplats** som jag skapade i *laboration 1*. Webbpla
 
 ## Tekniker
 webbplatsen är skapad med:
--HTML
--Git och github för versionshanteting
+
+- HTML
+- Git och github för versionshanteting
 
 ## Publicerade versioner
--https://islamdinho11.github.io/dt224g_Islamdin_Abulkhariyev/
--https://islamdinwebbplats.netlify.app/
+- https://islamdinho11.github.io/dt224g_Islamdin_Abulkhariyev/
+- https://islamdinwebbplats.netlify.app/
 
 ## Git frågor
 ### Vad är skillnaden mellan git add och git commit?
